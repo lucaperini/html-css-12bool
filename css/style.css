@@ -2,10 +2,6 @@ body{
     font-family:sans-serif;
     font-size:1rem;
     font-weight:bold;
-    color:white;
-}
-
-h1{
     color:black;
 }
 
@@ -17,16 +13,12 @@ h1{
     line-height:50px;
 }
 
-
-
 .nested{
-    background-color:green;
-    border:1px solid white;
+    background-color:white;
+    border:1px solid cornflowerblue;
     height:20px;
     margin-top:15px;
     line-height:20px;
 }
 
-.right{
-    text-align:right;
-}
+
