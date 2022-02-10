@@ -1,15 +1,32 @@
+body{
+    font-family:sans-serif;
+    font-size:1rem;
+    font-weight:bold;
+    color:white;
+}
+
+h1{
+    color:black;
+}
+
 .item{
-    background-color:turquoise;
+    background-color:cornflowerblue;    
     border:1px solid white;
     text-align:center;
     height:50px;
+    line-height:50px;
 }
+
+
 
 .nested{
     background-color:green;
-    
     border:1px solid white;
-    
-    height:30px;
-    vertical-align:middle;
+    height:20px;
+    margin-top:15px;
+    line-height:20px;
+}
+
+.right{
+    text-align:right;
 }
